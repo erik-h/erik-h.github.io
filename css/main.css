@@ -17,7 +17,7 @@ html, body {
 	padding-bottom: 80px;
 }
 
-.email, .github, .twitter {
+.tile {
 	width: 70px;
 	border-style: solid;
 	border-color: white;
@@ -29,6 +29,7 @@ html, body {
 
 	z-index: 10;
 	padding: 10px;
+	margin: 5px;
 	-moz-box-shadow: 0px 0px 7px #000000;
 	-webkit-box-shadow: 0px 0px 7px #000000;
 	box-shadow: 0px 0px 7px #000000;
@@ -40,7 +41,7 @@ html, body {
 	transition: border-color 1s;
 }
 
-.email:hover, .github:hover, .twitter:hover {
+.tile:hover {
 	border-color: blue;
 }
 
@@ -48,7 +49,6 @@ html, body {
 	margin: auto;
 	height: 70px;
 	width: 70px;
-	/*clear: both;*/
 	background: url('../img/email.svg');
 	background-size: 70px;
 	background-position: center;
@@ -58,7 +58,6 @@ html, body {
 .email:hover {
 	height: 70px;
 	width: 70px;
-	/*clear: both;*/
 	background: url('../img/showemail.png');
 	background-size: 70px;
 	background-position: center;
