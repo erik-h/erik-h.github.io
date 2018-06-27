@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/erik_h
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://erikh.me
+  * I am erik_h (https://keybase.io/erik_h) on keybase.
+  * I have a public key ASCXSccj-TobxSfzxDKdcC5xRN7YzrwUVD6W294jXoy8JQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd763bd0012790a1eed917953a33e4cee4ec98fc6acaa9b4586e47df1a2d46cc0a",
+      "host": "keybase.io",
+      "kid": "01209749c723f93a1bc527f3c4329d702e7144ded8cebc14543e96dbde235e8cbc250a",
+      "uid": "a8344e3401878661e34887449d5fa819",
+      "username": "erik_h"
+    },
+    "merkle_root": {
+      "ctime": 1529731877,
+      "hash": "b55a46d246f2d2fdb408d48305ee2d8a18f450fa1b55a936704311a63cba63365cd035e1e48db29239be929566cb63fabc6ac8b32f6f5b2e36f299474b51af0c",
+      "hash_meta": "3ba36c65644561d0c0d77f378b497358743fa20d034925d9a9b1b62b13aa92dc",
+      "seqno": 3129851
+    },
+    "service": {
+      "entropy": "psS7FutXFF43TGK9lbitSc2U",
+      "hostname": "erikh.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1529731894,
+  "expire_in": 504576000,
+  "prev": "33823333a62a2e6fa763fe85393b3d59fa253e5d340377f31c89bd4d9ab80cb2",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl0nHI/k6G8Un88QynXAucUTe2M68FFQ+ltveI16MvCUKp3BheWxvYWTESpcCEMQgM4IzM6YqLm+nY/6FOTs9WfolPl00A3fzHIm9TZq4DLLEIFJN/YcIWgKyTf8/65whT/8eJGwbVRifq9r/cnxEHiN0AgHCo3NpZ8RAdKvmYTeD/yjvrAGDoEuxYS0J5rXKQw8C2xKwyX4blYg6A/jiryRkhWmGakAPhpdIWbwA8+opCRJTVzfqtrygDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC1kw/gSS7AL15rLD3+zgMlPsYlZCsNwlkHlkUS8NeK5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erik_h
+
+==================================================================
