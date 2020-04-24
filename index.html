@@ -21,5 +21,15 @@
 			</div>
 		</footer>
 	</div>
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded", function(event) {
+			/*
+			 * Since I'm serving this page on multiple domains, prefix the
+			 * document title with the hostname. If JavaScript is disabled,
+			 * we'll just fallback to using our default hardcoded <title>.
+			 */
+			document.title = window.location.hostname + " | Erik Haugrud";
+		});
+	</script>
 </body>
 </html>
